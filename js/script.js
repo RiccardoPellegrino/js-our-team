@@ -95,5 +95,3 @@ function stampaCard(member) {
     return templateHtml;
 }
 
-// const arrayMap = team.map((val)=> val.ruolo);
-// console.log(arrayMap);
